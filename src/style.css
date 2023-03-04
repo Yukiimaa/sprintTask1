@@ -7,7 +7,7 @@
 	background: #2F4F4F;
 	display: flex;
 	padding: 30px;
-
+	justify-content: space-between;
 }
 
 /* .navbar .menu {
@@ -41,7 +41,7 @@ body {
 	display: flex;
 }
 
-.logo>a, .menu>a {
+.logo a, .submenu a {
 	color: #fff;
 }
 
